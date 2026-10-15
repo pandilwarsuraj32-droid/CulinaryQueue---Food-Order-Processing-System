@@ -1,0 +1,7 @@
+{
+  "name": "CulinaryQueue - Food Order Processing System",
+  "description": "Production-grade FIFO Queue-driven food ordering and kitchen dispatch system featuring real-time queue data structure visualizer, kitchen display, and live tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
